@@ -1,7 +1,1 @@
-console.log("Hello, World!");
-
-
-
-//? Maps:=
-
-
+console.log("Learn Javascript!");
